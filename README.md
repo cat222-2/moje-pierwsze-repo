@@ -1,1 +1,1 @@
-# to jest mój **pierwsze repozytorium**
+# to jest mój *pierwsze repozytorium*
