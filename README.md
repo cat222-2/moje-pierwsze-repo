@@ -1,4 +1,4 @@
-to nie jest konflikt
+to jest poczatek
 
 # to jest mój *pierwsze repozytorium*
 
